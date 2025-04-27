@@ -70,13 +70,5 @@ For the user prompt: "Generate a report of revenue between the months of Jan and
 4. Combine the insights and charts into a report.
 
 The final output will include the generated report and the path to the saved chart.
+s and visualization types.
 
-## Future Enhancements
-
-- Add support for more complex workflows.
-- Improve error handling and retries for LLM interactions.
-- Extend the framework to support additional data sources and visualization types.
-
-## License
-
-This project is licensed under the MIT License.
